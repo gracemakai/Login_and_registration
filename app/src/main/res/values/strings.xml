@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Profitable Trader Consultant</string>
+
+    //Registration and Login
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="yes_account">Already Have an Account? Sign in</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="Auth_failed">Authentication Failed.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="btn_back">Back</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="sign_out">Sign out</string>
+    <string-array name="counties">
+        <item>Nairobi</item>
+        <item>Nakuru</item>
+        <item>Mombasa</item>
+        <item>Kisumu</item>
+        <item>Eldoret</item>
+    </string-array>
+</resources>
